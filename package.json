@@ -1,0 +1,11 @@
+"homepage": "https://github.com/mavstronaut/budget-calc#readme",
+"_moduleAliases": {
+	"@root": ".",
+	"@BudgetManager": "./services/api",
+	"@BudgetManagerModels":"./services/api/app/models",
+	"@BudgetAPI":"./services/api/config/app.js",
+	"@config": "./services/api/config/index.js"
+  },
+"dependencies": {
+
+}
